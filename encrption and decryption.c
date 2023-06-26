@@ -1,7 +1,7 @@
 #include<string.h>
 #include<stdio.h>
 #include<stdlib.h>
-int c(int zzzzzzz)
+int main (int zzzzzz)
 {
     int choice;
     printf("enter 1 to lock 2 to unlock\n");
